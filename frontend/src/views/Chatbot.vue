@@ -1,6 +1,6 @@
 <template>
   <div class="chat-container">
-    <h1 class="title">💬 Deepseek Chatbot</h1>
+    <h1 class="title">💬 Local Chatbot</h1>
 
     <div class="chat-box">
       <div
